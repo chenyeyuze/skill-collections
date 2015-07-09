@@ -132,6 +132,7 @@
 
 ###提示组件
 * [opentip](http://www.opentip.org/) 漂亮的提示组件，各种方向
+* [simple-hint](https://github.com/catc/simple-hint) 提示信息。用css做的。兼容性IE 9+。
 
 ### 表格组件
 * [datatables](http://www.datatables.net/) 表格可交互（对内容进行排序，删除等）
@@ -217,7 +218,11 @@
 ###小组件
 * [Widgster](https://github.com/flatlogic/widgster)小的jQuery插件，提供简单的方式处理像伸缩、关闭、异步刷新、全屏的效果
 * [flippant](https://github.com/mintchaos/flippant.js)仅仅关注于翻转效果的组件
-
+* [Intro.js](http://usablica.github.io/intro.js/) 用来介绍网站的功能很不错。也可以做新手引导。
+* [blockUI](http://jquery.malsup.com/block/) Lolding组件。
+* [dotdotdot](https://github.com/BeSite/jQuery.dotdotdot) 文字溢出时，添加在文字末尾加省略号
+* [AnythingZoomer](https://github.com/CSS-Tricks/AnythingZoomer/) 放大镜功能
+* [please](http://www.checkman.io/please/) 按要求随机舒服的颜色
 
 
 ### flash
@@ -265,15 +270,6 @@
 * [App Framework](http://app-framework-software.intel.com/) 
 * [jQuery Mobile](https://jquerymobile.com/)
 
-## <a name="ux">用户体验增强类</a>
-* [Intro.js](http://usablica.github.io/intro.js/) 用来介绍网站的功能很不错。也可以做新手引导。
-* [blockUI](http://jquery.malsup.com/block/) Lolding组件。
-* [simple-hint](https://github.com/catc/simple-hint) 提示信息。用css做的。兼容性IE 9+。
-* [dotdotdot](https://github.com/BeSite/jQuery.dotdotdot) 文字溢出时，添加在文字末尾加省略号
-* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) 二级菜单的切换如Amazon主页上一样迅速
-* [AnythingZoomer](https://github.com/CSS-Tricks/AnythingZoomer/) 放大镜功能
-* [please](http://www.checkman.io/please/) 按要求随机舒服的颜色
-
 ## <a name="other">其他类</a>
 * [Ink](http://zurb.com/ink/) 响应式html邮件框架
 * [性能测试](http://benchmarkjs.com/)
@@ -288,7 +284,6 @@
 
 ## <a name="repository">JS Plugins仓库</a>
 * [jster](http://jster.net/)
-* [node modules](https://nodejsmodules.org/)
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 
 
