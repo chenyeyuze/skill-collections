@@ -168,10 +168,8 @@
 * [wowslider](http://wowslider.com/rq/jquery-image-viewer/)  幻灯切换时各种很炫的效果。收费。
 * [cycle2](http://jquery.malsup.com/cycle2/) 普通的幻灯，竟然不支持垂直滚动。。。
 * [jcarousel](http://sorgalla.com/jcarousel/) 普通的幻灯，不兼容IE6
-* [reveal](https://github.com/hakimel/reveal.js) 3d滚动。做ppt相当不错
 * [nodePPT](https://github.com/ksky521/nodePPT) 国人做的，做ppt也相当不错。有些方面比 reveal做的还好。但生成导出的html有些问题
 * [roundabout](https://github.com/fredleblanc/roundabout) 3d切换，看的后面图片的边
-* [remark](https://github.com/gnab/remark) 网页幻灯片，做PPT，做书都行
 
 ### 弹出框
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) 兼容PC，Mobile。还不错，有5k+的star
@@ -227,6 +225,8 @@
 * [pagePiling](http://alvarotrigo.com/pagePiling/) 和fullPage类似
 * [turn.js](https://github.com/blasten/turn.js) 做一本书，带漂亮的翻页的效果
 * [appshowcase](http://www.htmleaf.com/css3/css3donghua/20141019233.html) 展示app页面的组件，效果很炫，做app宣讲用很不错
+* [remark](https://github.com/gnab/remark) 网页幻灯片，做PPT，做书都行
+* [reveal](https://github.com/hakimel/reveal.js) 3d滚动。做ppt相当不错
 
 ###地图处理
 * [openlayer](http://openlayers.org/) 个人用过OpenLayer2，新版是OpenLayer3
