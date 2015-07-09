@@ -7,7 +7,6 @@
 * [通用UI组件类](#ui)
 * [专用工具类](#specialtool)
 * [移动端框架](#mobile)
-* [用户体验增强](#ux)
 * [其他类](#other)
 * [Bootstrap相关类](#bootstrap)
 * [JS Plugins仓库](#repository)
@@ -15,6 +14,7 @@
 ## <a name="tool">工具类</a>
 * 方便操作对象，数组等的工具库
     * [underscore.js](http://underscorejs.org/)
+    * [immutable](https://github.com/facebook/immutable-js) facebook的，持久化JS的集合数据
     * [lo-dash](http://lodash.com/) 与underscore.js的api基本一致。与underscore比其优势是，效率高；可自定义构建
     * [Sugar](https://github.com/andrewplummer/Sugar/) 在原生对象上增加一些工具方法
     * [functional.js](https://github.com/leecrossley/functional-js/) 提够了一些Curry的支持
@@ -101,6 +101,10 @@
 * [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) 
 * [Lightbox for Bootstrap 3](http://ashleydw.github.io/lightbox/) 基于bootstrap3的modal做的幻灯片
 * [photoswipe](http://photoswipe.com/) 有分享按钮的响应式图片浏览组件
+* [coin-slider](https://github.com/kopipejst/coin-slider/) 兼容IE6。蛮好的~。不过其切换方式是一块块的。不能配置切换方式。。。
+* [wowslider](http://wowslider.com/rq/jquery-image-viewer/)  幻灯切换时各种很炫的效果。收费。
+* [cycle2](http://jquery.malsup.com/cycle2/) 普通的幻灯，竟然不支持垂直滚动。。。
+* [jcarousel](http://sorgalla.com/jcarousel/) 普通的幻灯，不兼容IE6
 
 ### 图片墙(瀑布流)
 * [wookmark](http://www.wookmark.com/jquery-plugin)
@@ -180,14 +184,6 @@
 * [jQueryMedia](http://jquery.malsup.com/media/) 网页插入多媒体文件
 
 
-### 幻灯
-* [coin-slider](https://github.com/kopipejst/coin-slider/) 兼容IE6。蛮好的~。不过其切换方式是一块块的。不能配置切换方式。。。
-* [wowslider](http://wowslider.com/rq/jquery-image-viewer/)  幻灯切换时各种很炫的效果。收费。
-* [cycle2](http://jquery.malsup.com/cycle2/) 普通的幻灯，竟然不支持垂直滚动。。。
-* [jcarousel](http://sorgalla.com/jcarousel/) 普通的幻灯，不兼容IE6
-* [nodePPT](https://github.com/ksky521/nodePPT) 国人做的，做ppt也相当不错。有些方面比 reveal做的还好。但生成导出的html有些问题
-* [roundabout](https://github.com/fredleblanc/roundabout) 3d切换，看的后面图片的边
-
 ### 弹出框
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) 可以做图片查看/兼容PC，Mobile。还不错，有6k+的star
 * [layer](https://github.com/sentsin/layer) 国人开发的，兼容ie6+。不喜欢其调用方式。
@@ -199,7 +195,7 @@
 * [mixitup](https://mixitup.kunkalabs.com/) 用漂亮的动画效果来完成排序和筛选
 * [jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee) 跑马灯效果
 * [quickflip](http://jonraasch.com/blog/quickflip-jquery-plugin) 卡片翻转效果
-* [卡片翻转效果2](http://nnattawat.github.io/flip/) 兼容性可以。写的比较简单：1，只支持x方向翻转 2,类名都是规定好的 3，只能被调用一次。 需要改写一下。我的改进版见[这里](https://github.com/iamjoel/be-grace-front-end-developer/tree/master/my-lib/flip/quickflip.js)
+* [卡片翻转效果2](http://nnattawat.github.io/flip/) 兼容性可以。写的比较简单：1，只支持x方向翻转 2,类名都是规定好的 3，只能被调用一次。 需要改写一下。改进版见[这里](https://github.com/iamjoel/be-grace-front-end-developer/tree/master/my-lib/flip/quickflip.js)
 * [TheaterJS](https://github.com/Zhouzi/TheaterJS) 模拟两个人在屏幕上对话，像打字聊天
 * [midnight.js](https://github.com/Aerolab/midnight.js) 文字颜色随着背景变，屌炸了
 * [color-animation](http://www.bitstorm.org/jquery/color-animation/) jquery的颜色渐变动画插件。jquery的动画不支持颜色值的变化。改库提供了这个支持。
@@ -253,6 +249,7 @@
 * [appshowcase](http://www.htmleaf.com/css3/css3donghua/20141019233.html) 展示app页面的组件，效果很炫，做app宣讲用很不错
 * [remark](https://github.com/gnab/remark) 网页幻灯片，做PPT，做书都行
 * [reveal](https://github.com/hakimel/reveal.js) 3d滚动。做ppt相当不错
+* [nodePPT](https://github.com/ksky521/nodePPT) 国人做的，做ppt也相当不错。有些方面比 reveal做的还好。但生成导出的html有些问题
 
 ###地图处理
 * [openlayer](http://openlayers.org/) 个人用过OpenLayer2，新版是OpenLayer3
