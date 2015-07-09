@@ -188,7 +188,7 @@
 * [roundabout](https://github.com/fredleblanc/roundabout) 3d切换，看的后面图片的边
 
 ### 弹出框
-* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) 兼容PC，Mobile。还不错，有5k+的star
+* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) 可以做图片查看/兼容PC，Mobile。还不错，有6k+的star
 * [layer](https://github.com/sentsin/layer) 国人开发的，兼容ie6+。不喜欢其调用方式。
 
 ### 自适应textarea高度
@@ -199,7 +199,7 @@
 * [jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee) 跑马灯效果
 * [quickflip](http://jonraasch.com/blog/quickflip-jquery-plugin) 卡片翻转效果
 * [卡片翻转效果2](http://nnattawat.github.io/flip/) 兼容性可以。写的比较简单：1，只支持x方向翻转 2,类名都是规定好的 3，只能被调用一次。 需要改写一下。我的改进版见[这里](https://github.com/iamjoel/be-grace-front-end-developer/tree/master/my-lib/flip/quickflip.js)
-* [TheaterJS](https://github.com/Zhouzi/TheaterJS) 模拟两个人在屏幕上对话
+* [TheaterJS](https://github.com/Zhouzi/TheaterJS) 模拟两个人在屏幕上对话，像打字聊天
 * [midnight.js](https://github.com/Aerolab/midnight.js) 文字颜色随着背景变，屌炸了
 * [color-animation](http://www.bitstorm.org/jquery/color-animation/) jquery的颜色渐变动画插件。jquery的动画不支持颜色值的变化。改库提供了这个支持。
 * [transit](https://github.com/rstacruz/jquery.transit) 对元素进行css的变换
