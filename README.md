@@ -5,6 +5,7 @@
 * [表单类](#form)
 * [图片类](#img)
 * [UI组件类](#ui)
+* [地图类](#map)
 * [移动端框架](#mobile)
 * [用户体验增强](#ux)
 * [其他类](#other)
@@ -31,7 +32,7 @@
 * 浏览器探测
     * [Bowser](https://github.com/ded/bowser) 探测具体浏览器和版本
     * [ua-parser-js](https://github.com/faisalman/ua-parser-js) 探测具体浏览器和版本，操作系统，设备类型等
-* 调试
+* 调试地图
     * [JavaScript Debug](http://benalman.com/projects/javascript-debug-console-log/) 对console.log的简单封装，当浏览器不支持console.log时，输出在一个页面元素里
     * [log](https://github.com/adamschwartz/log) 让控制台输出的log有样式
 * [uri.js](https://github.com/medialize/URI.js) uri操作
@@ -199,8 +200,14 @@
 
 ###小组件
 * [Widgster](https://github.com/flatlogic/widgster)小的jQuery插件，提供简单的方式处理像伸缩、关闭、异步刷新、全屏的效果
+
 ### flash
 * [swfobj](http://code.google.com/p/swfobject/wiki/documentation) 能够自动检测PC、Mac机器上各种主流浏览器对Flash插件的支持情况。它使得插入Flash媒体资源尽量简捷、安全。而且它是非常符合搜索引擎优化的原则的。此外，它能够避免您的HTML、XHTML中出现object、embed等非标准标签，从而符合更加标准。
+
+## <a name="map">地图类</a>
+* [openlayer](http://openlayers.org/) 个人用过OpenLayer2，新版是OpenLayer3
+* [mapbox](https://www.mapbox.com/developers/) 定制化的地图，没试过，但看页面很炫
+* [jQuery Mapael](http://www.vincentbroute.fr/mapael/) 在地图上建立漂亮的可视化数据模型
 
 ## <a name="mobile">移动端框架</a>
 * [App Framework](http://app-framework-software.intel.com/) 
