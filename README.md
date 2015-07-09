@@ -173,6 +173,7 @@
 * [FlexSlider 2](http://flexslider.woothemes.com/index.html)响应式幻灯片，切换视频/切换图片
 * [bxslider](http://bxslider.com/) 响应式幻灯片
 * [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) 
+* [Lightbox for Bootstrap 3](http://ashleydw.github.io/lightbox/) 基于bootstrap3的modal做的幻灯片
 
 ### 压缩文件
 * [jszip](https://stuk.github.io/jszip/) 建立，读取，编辑zip文件
@@ -196,6 +197,8 @@
 * [superscrollorama](https://github.com/johnpolacek/superscrollorama) 能做的效果更多，但要用第三方Tween的库，使用起来比较复杂。
 * [scrolldeck](https://github.com/johnpolacek/scrolldeck.js)
 
+###小组件
+* [Widgster](https://github.com/flatlogic/widgster)小的jQuery插件，提供简单的方式处理像伸缩、关闭、异步刷新、全屏的效果
 ### flash
 * [swfobj](http://code.google.com/p/swfobject/wiki/documentation) 能够自动检测PC、Mac机器上各种主流浏览器对Flash插件的支持情况。它使得插入Flash媒体资源尽量简捷、安全。而且它是非常符合搜索引擎优化的原则的。此外，它能够避免您的HTML、XHTML中出现object、embed等非标准标签，从而符合更加标准。
 
