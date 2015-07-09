@@ -257,6 +257,9 @@
 ### 压缩文件
 * [jszip](https://stuk.github.io/jszip/) 建立，读取，编辑zip文件
 
+### 拖拽组件
+* [jQueryEventDragDrop](http://threedubmedia.com/code/event/drag) 不错的拖拽组件
+
 
 ## <a name="mobile">移动端框架</a>
 * [App Framework](http://app-framework-software.intel.com/) 
