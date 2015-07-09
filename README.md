@@ -8,7 +8,6 @@
 * [专用工具类](#specialtool)
 * [移动端框架](#mobile)
 * [其他类](#other)
-* [Bootstrap相关类](#bootstrap)
 * [JS Plugins仓库](#repository)
 
 ## <a name="tool">工具类</a>
@@ -274,10 +273,6 @@
     * [jFeed](https://github.com/jfhovinne/jFeed)
     * [jRss](https://github.com/malderete/jRss)  简单版的jFeed
 * [scriptcam](http://www.scriptcam.com/) 与摄像头交互
-
-## <a name="bootstrap">Bootstrap相关类</a>
-* 免费皮肤
-    * [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 
 ## <a name="repository">JS Plugins仓库</a>
 * [jster](http://jster.net/)
