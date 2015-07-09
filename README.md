@@ -13,7 +13,7 @@
 
 ## <a name="tool">工具类</a>
 * 方便操作对象，数组等的工具库
-    * [underscore.js](http://underscorejs.org/)
+    * [underscore.js](http://underscorejs.org/)提供了一整套函数式编程的实用功能，但是没有扩展任何JavaScript内置对象
     * [immutable](https://github.com/facebook/immutable-js) facebook的，持久化JS的集合数据
     * [lo-dash](http://lodash.com/) 与underscore.js的api基本一致。与underscore比其优势是，效率高；可自定义构建
     * [Sugar](https://github.com/andrewplummer/Sugar/) 在原生对象上增加一些工具方法
