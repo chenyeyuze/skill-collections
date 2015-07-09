@@ -64,6 +64,9 @@
 * [jquery-file-upload](https://github.com/blueimp/jQuery-File-Upload) 上传文件组件
 * [jquery-fileapi](http://rubaxa.github.io/jquery.fileapi/) 上传裁剪图片，上传多张文件，拖拽上传，视频webcam上传
 * [AjaxFileUpload](https://github.com/davgothic/AjaxFileUpload) ajax上传
+* [jQuery File Upload](https://blueimp.github.io/jQuery-File-Upload/) 多文件、拖拽上传、进度条、验证、预览图片、音频视频、跨域，客户端图片重新调整等功能
+* [multiple-file-upload](http://www.fyneworks.com/jquery/multiple-file-upload/) 多文件上传
+* [uploadify](http://www.uploadify.com/documentation/) 需要flash
 
 ### 树组件
 * [zTree](http://www.ztree.me/v3/main.php#_zTreeInfo) 文件树形视图控件
@@ -93,6 +96,7 @@
 * [bxslider](http://bxslider.com/) 响应式幻灯片
 * [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) 
 * [Lightbox for Bootstrap 3](http://ashleydw.github.io/lightbox/) 基于bootstrap3的modal做的幻灯片
+* [photoswipe](http://photoswipe.com/) 有分享按钮的响应式图片浏览组件
 
 ### 图片墙(瀑布流)
 * [wookmark](http://www.wookmark.com/jquery-plugin)
@@ -113,6 +117,7 @@
 * [bootstrap-datepicker](http://www.eyecon.ro/bootstrap-datepicker/) bootstrap风格。
 * [dateRangePicker](https://github.com/dangrossman/bootstrap-daterangepicker) 选取时间段。bootstrap风格。该组件依赖Twitter Bootstrap, Moment.js和jQuery.
 * [My97 DatePicker](http://www.my97.net/) 谁用谁知道，炒鸡好用，好多网站和企业系统用，貌似12306也用
+* [mobiscroll](https://github.com/acidb/mobiscroll)移动端日期选择器，该公司的组件其他是收费的，日期免费
 
 ### 滚动条组件
 * [perfect scrollbar](https://github.com/noraesae/perfect-scrollbar) 轻量级的滚动条。外观与mac上chrome的滚动条一样。
@@ -120,6 +125,9 @@
 * [jQuery slimScroll](http://rocha.la/jQuery-slimScroll) 监听scroll事件，隐藏显示滚动条
 * [jquery-scrollspy](https://github.com/sxalexander/jquery-scrollspy) 
 * [bootstrap-scrollspy](http://v3.bootcss.com/javascript/#scrollspy) 
+
+###提示组件
+* [opentip](http://www.opentip.org/) 漂亮的提示组件，各种方向
 
 ### 表格组件
 * [datatables](http://www.datatables.net/) 表格可交互（对内容进行排序，删除等）
@@ -196,9 +204,12 @@
 
 ###分页组件
 * [jQuery Pagination](http://esimakin.github.io/twbs-pagination/)
+* [11款分页](http://www.htmleaf.com/css3/daohangcaidan/201501241268.html)
 
 ###小组件
 * [Widgster](https://github.com/flatlogic/widgster)小的jQuery插件，提供简单的方式处理像伸缩、关闭、异步刷新、全屏的效果
+* [flippant](https://github.com/mintchaos/flippant.js)仅仅关注于翻转效果的组件
+
 
 ### flash
 * [swfobj](http://code.google.com/p/swfobject/wiki/documentation) 能够自动检测PC、Mac机器上各种主流浏览器对Flash插件的支持情况。它使得插入Flash媒体资源尽量简捷、安全。而且它是非常符合搜索引擎优化的原则的。此外，它能够避免您的HTML、XHTML中出现object、embed等非标准标签，从而符合更加标准。
@@ -214,6 +225,7 @@
 * [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about) 星波图
 * [rickshaw](http://code.shutterstock.com/rickshaw/) 交互式时间序列图
 * [D3](http://d3js.org/) 让数据富有生命，并绚丽夺目
+* [Two](http://jonobr1.github.io/two.js/#examples) 二维绘制图API
 
 ### 待办事宜日历
 * [full calendar](http://arshaw.com/fullcalendar/) 支持脱放的方式来改变待办事宜的时间
