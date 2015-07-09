@@ -61,7 +61,6 @@
 
 ## <a name="form">表单类</a>
 ### 上传组件
-* [jquery-file-upload](https://github.com/blueimp/jQuery-File-Upload) 上传文件组件
 * [jquery-fileapi](http://rubaxa.github.io/jquery.fileapi/) 上传裁剪图片，上传多张文件，拖拽上传，视频webcam上传
 * [AjaxFileUpload](https://github.com/davgothic/AjaxFileUpload) ajax上传
 * [jQuery File Upload](https://blueimp.github.io/jQuery-File-Upload/) 多文件、拖拽上传、进度条、验证、预览图片、音频视频、跨域，客户端图片重新调整等功能
@@ -77,8 +76,11 @@
 * [parsleyjs](http://parsleyjs.org/) jQuery >= 1.8才能使用
 
 ### 表单元素美化
+   *多选下拉框 
+       * [select2](http://ivaynberg.github.io/select2/index.html) 多选下拉框
+       * [MULTIPLE SELECT](http://wenzhixin.net.cn/p/multiple-select/docs/index.html?locale=zh_CN) 多选下拉框
+       * [jQuery UI MultiSelectWidget](http://www.erichynds.com/examples/jquery-ui-multiselect-widget/demos/#basic) 多选下拉框
 * [uniform](http://uniformjs.com/) 提供对下拉框，单，复选框，按钮等表单元素的美化
-* [select2](http://ivaynberg.github.io/select2/index.html) 多选下拉框
 * [DropKick](http://robdel12.github.io/DropKick/) 下拉框，单，多选。外观比uniform好
 * [switchery](http://abpetkov.github.io/switchery/) ios7风格的开关组件
 * [nouislider](http://refreshless.com/nouislider/) 用滚动条来设置/控制（音量等）
@@ -132,6 +134,7 @@
 ### 表格组件
 * [datatables](http://www.datatables.net/) 表格可交互（对内容进行排序，删除等）
 * [backgrid](http://backgridjs.com/) 各种功能，带分页，可编辑表格内容。很棒。
+* [JqGrid](http://www.trirand.com/blog/?page_id=5) jqGrid相关的几个表格组件,jqGrid，treeGrid
 * [excellentexport](https://github.com/jmaister/excellentexport) 把表格的内容生成excel。兼容 Firefox, Chrome, IE6+
 
 ### 排序组件
@@ -209,6 +212,7 @@
 ###小组件
 * [Widgster](https://github.com/flatlogic/widgster)小的jQuery插件，提供简单的方式处理像伸缩、关闭、异步刷新、全屏的效果
 * [flippant](https://github.com/mintchaos/flippant.js)仅仅关注于翻转效果的组件
+
 
 
 ### flash
