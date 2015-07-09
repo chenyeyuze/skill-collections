@@ -167,6 +167,8 @@
 ###代码高亮
 * [syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) 好多网站使用此组件
 * [highlightjs](https://highlightjs.org/)  也很不错
+* [google-code-prettify](https://code.google.com/p/google-code-prettify/)
+* [DlHighlight](http://mihai.bazon.net/projects/javascript-syntax-highlighting-engine)仅支持JavaScript、CSS、XML、HTML 这4语法高亮
 * [其他](https://codegeekz.com/15-code-syntax-highlighters-to-prettify-your-code/)
 
 ### HTML5播放器
@@ -265,9 +267,6 @@
 * [dotdotdot](https://github.com/BeSite/jQuery.dotdotdot) 文字溢出时，添加在文字末尾加省略号
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) 二级菜单的切换如Amazon主页上一样迅速
 * [AnythingZoomer](https://github.com/CSS-Tricks/AnythingZoomer/) 放大镜功能
-* 美化/高亮语法代码
-    * [google-code-prettify](https://code.google.com/p/google-code-prettify/)
-    * [DlHighlight](http://mihai.bazon.net/projects/javascript-syntax-highlighting-engine) 仅支持JavaScript、CSS、XML、HTML 这4语法高亮
 * [please](http://www.checkman.io/please/) 按要求随机舒服的颜色
 
 ## <a name="other">其他类</a>
