@@ -112,6 +112,7 @@
 ### 自定义滚动条
 * [perfect scrollbar](https://github.com/noraesae/perfect-scrollbar) 轻量级的滚动条。外观与mac上chrome的滚动条一样。
 * [iscroll](http://iscrolljs.com) 在移动设备上用不错
+* [jQuery slimScroll](http://rocha.la/jQuery-slimScroll) 监听scroll事件，隐藏显示滚动条
 
 ### 表格组件
 * [datatables](http://www.datatables.net/) 表格可交互（对内容进行排序，删除等）
@@ -158,6 +159,7 @@
 * [fullPage](http://alvarotrigo.com/fullPage) 全屏显示。用滚轮来翻页
 * [pagePiling](http://alvarotrigo.com/pagePiling/) 和fullPage类似
 * [turn.js](https://github.com/blasten/turn.js) 做一本书，带漂亮的翻页的效果
+* [appshowcase](http://www.htmleaf.com/css3/css3donghua/20141019233.html) 展示app页面的组件，效果很炫，做app宣讲用很不错
 
 ### 幻灯
 * [coin-slider](https://github.com/kopipejst/coin-slider/) 兼容IE6。蛮好的~。不过其切换方式是一块块的。不能配置切换方式。。。
@@ -168,6 +170,9 @@
 * [nodePPT](https://github.com/ksky521/nodePPT) 国人做的，做ppt也相当不错。有些方面比 reveal做的还好。但生成导出的html有些问题
 * [roundabout](https://github.com/fredleblanc/roundabout) 3d切换，看的后面图片的边
 * [remark](https://github.com/gnab/remark) 网页幻灯片，做PPT，做书都行
+* [FlexSlider 2](http://flexslider.woothemes.com/index.html)响应式幻灯片，切换视频/切换图片
+* [bxslider](http://bxslider.com/) 响应式幻灯片
+* [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) 
 
 ### 压缩文件
 * [jszip](https://stuk.github.io/jszip/) 建立，读取，编辑zip文件
@@ -228,4 +233,4 @@
 * [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
 
 
-####参考[前端整理]：(https://github.com/iamjoel/front-end-plugins)
+####部分参考[前端整理]：(https://github.com/iamjoel/front-end-plugins)
