@@ -39,6 +39,7 @@
 * [uri.js](https://github.com/medialize/URI.js) uri操作
 * [cookie](https://github.com/ScottHamper/Cookies) 增删改cookie的工具库
 * [BigDecimal.js](https://github.com/dtrebbien/BigDecimal.js) 提高精度的数字操作
+* [big.js](https://github.com/MikeMcl/big.js)提高精度的数字操作
 * 前端数据库
     * [taffydb](http://www.taffydb.com/) 像操作mongo一样
     * [其他](http://blog.jobbole.com/31166/) 真不少，选择一款自己的哦
