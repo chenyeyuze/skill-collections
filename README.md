@@ -76,16 +76,17 @@
 * [jQuery-Validation-Engine](http://posabsolute.github.io/jQuery-Validation-Engine/)
 * [parsleyjs](http://parsleyjs.org/) jQuery >= 1.8才能使用
 
-### 表单元素美化
-   *多选下拉框 
-       * [select2](http://ivaynberg.github.io/select2/index.html) 多选下拉框
-       * [MULTIPLE-SELECT](http://wenzhixin.net.cn/p/multiple-select/docs/index.html?locale=zh_CN) 多选下拉框
-       * [jQueryUIMultiSelectWidget](http://www.erichynds.com/examples/jquery-ui-multiselect-widget/demos/#basic) 多选下拉框
+### 表单元素美化 
 * [uniform](http://uniformjs.com/) 提供对下拉框，单，复选框，按钮等表单元素的美化
 * [DropKick](http://robdel12.github.io/DropKick/) 下拉框，单，多选。外观比uniform好
 * [switchery](http://abpetkov.github.io/switchery/) ios7风格的开关组件
 * [nouislider](http://refreshless.com/nouislider/) 用滚动条来设置/控制（音量等）
-* [range.css](http://danielstern.ca/range.css/) 美化`input[type=range]`元素的外观
+* [range.css](http://danielstern.ca/range.css/) 美化`input[type=range]`元素的外观  
+* 多选下拉框 
+       * [select2](http://ivaynberg.github.io/select2/index.html) 多选下拉框
+       * [MULTIPLE-SELECT](http://wenzhixin.net.cn/p/multiple-select/docs/index.html?locale=zh_CN) 多选下拉框
+       * [jQueryUIMultiSelectWidget](http://www.erichynds.com/examples/jquery-ui-multiselect-widget/demos/#basic) 多选下拉框
+
 
 ## <a name="img">图片类</a>
 * [holderjs](http://imsky.github.io/holder/) 生成占位图片
