@@ -176,6 +176,7 @@
 * [jwplayer](http://www.jwplayer.com/) 被大量网站使用
 * [html5media](http://html5media.info/) 简单的h5player，轻量级
 * [jplayer](http://jplayer.org/) 功能强太，可换肤
+* [jQueryMedia](http://jquery.malsup.com/media/) 网页插入多媒体文件
 
 
 ### 幻灯
