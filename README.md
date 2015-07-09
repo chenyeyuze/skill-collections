@@ -79,8 +79,8 @@
 ### 表单元素美化
    *多选下拉框 
        * [select2](http://ivaynberg.github.io/select2/index.html) 多选下拉框
-       * [MULTIPLE SELECT](http://wenzhixin.net.cn/p/multiple-select/docs/index.html?locale=zh_CN) 多选下拉框
-       * [jQuery UI MultiSelectWidget](http://www.erichynds.com/examples/jquery-ui-multiselect-widget/demos/#basic) 多选下拉框
+       * [MULTIPLE-SELECT](http://wenzhixin.net.cn/p/multiple-select/docs/index.html?locale=zh_CN) 多选下拉框
+       * [jQueryUIMultiSelectWidget](http://www.erichynds.com/examples/jquery-ui-multiselect-widget/demos/#basic) 多选下拉框
 * [uniform](http://uniformjs.com/) 提供对下拉框，单，复选框，按钮等表单元素的美化
 * [DropKick](http://robdel12.github.io/DropKick/) 下拉框，单，多选。外观比uniform好
 * [switchery](http://abpetkov.github.io/switchery/) ios7风格的开关组件
