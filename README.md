@@ -29,7 +29,7 @@
     * [Async.js](https://github.com/caolan/async/)
 * 时间库
     * [moment](http://momentjs.com/)
-    * [datejs](http://www.datejs.com/)
+    * [datejs](https://github.com/datejs/Datejs)
 * 浏览器探测
     * [Bowser](https://github.com/ded/bowser) 探测具体浏览器和版本
     * [ua-parser-js](https://github.com/faisalman/ua-parser-js) 探测具体浏览器和版本，操作系统，设备类型等
