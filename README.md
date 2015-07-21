@@ -190,6 +190,7 @@
 
 ### 自适应textarea高度
 * [AutoSize](http://www.jacklmoore.com/autosize/) 自适应textarea高度
+* [flexText](https://github.com/alexdunphy/flexText)
 
 ### 动画效果
 * [mixitup](https://mixitup.kunkalabs.com/) 用漂亮的动画效果来完成排序和筛选
