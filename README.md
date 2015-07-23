@@ -251,6 +251,7 @@
 * [remark](https://github.com/gnab/remark) 网页幻灯片，做PPT，做书都行
 * [reveal](https://github.com/hakimel/reveal.js) 3d滚动。做ppt相当不错
 * [nodePPT](https://github.com/ksky521/nodePPT) 国人做的，做ppt也相当不错。有些方面比 reveal做的还好。但生成导出的html有些问题
+* [Deck.js](http://imakewebthings.com/deck.js/)
 
 ###地图处理
 * [openlayer](http://openlayers.org/) 个人用过OpenLayer2，新版是OpenLayer3
