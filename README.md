@@ -91,6 +91,7 @@
 * [holderjs](http://imsky.github.io/holder/) 生成占位图片
 * [jquery_lazy.load](https://github.com/tuupola/jquery_lazyload) 图片延迟加载
 * [imagesLoaded](http://desandro.github.io/imagesloaded/) 选取的图片都加载好后执行调回
+* [localResizeIMG](https://github.com/think2011/localResizeIMG3) 前端本地压缩图片
 
 ### 浏览图片
 * [fancybox](http://fancyapps.com/fancybox/) 弹出查看图片，视屏等等 [demo](http://fancyapps.com/fancybox/demo/)
@@ -104,6 +105,7 @@
 * [wowslider](http://wowslider.com/rq/jquery-image-viewer/)  幻灯切换时各种很炫的效果。收费。
 * [cycle2](http://jquery.malsup.com/cycle2/) 普通的幻灯，竟然不支持垂直滚动。。。
 * [jcarousel](http://sorgalla.com/jcarousel/) 普通的幻灯，不兼容IE6
+* [EasySlide](https://github.com/xiaojue/EasySlide)类似微信内滑动图片
 
 ### 图片墙(瀑布流)
 * [wookmark](http://www.wookmark.com/jquery-plugin)
@@ -202,6 +204,8 @@
 * [color-animation](http://www.bitstorm.org/jquery/color-animation/) jquery的颜色渐变动画插件。jquery的动画不支持颜色值的变化。改库提供了这个支持。
 * [transit](https://github.com/rstacruz/jquery.transit) 对元素进行css的变换
 * [velocity](http://julian.com/research/velocity/) 动画加速
+* [sticker](http://stickerjs.cmiscm.com/) 标签效果
+
 
 #### 视觉差插件
 * [scrollorama](https://github.com/johnpolacek/scrollorama) 比较简单 
@@ -252,6 +256,7 @@
 * [reveal](https://github.com/hakimel/reveal.js) 3d滚动。做ppt相当不错
 * [nodePPT](https://github.com/ksky521/nodePPT) 国人做的，做ppt也相当不错。有些方面比 reveal做的还好。但生成导出的html有些问题
 * [Deck.js](http://imakewebthings.com/deck.js/)
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) 一整页滚动网站
 
 ###地图处理
 * [openlayer](http://openlayers.org/) 个人用过OpenLayer2，新版是OpenLayer3
