@@ -245,6 +245,11 @@
 ### 待办事宜日历
 * [full calendar](http://arshaw.com/fullcalendar/) 支持脱放的方式来改变待办事宜的时间
 * [Simple Events Calendar](http://codecanyon.net/item/simple-events-calendar-js/full_screen_preview/462149?ref=themespotters) 外观很喜欢。收费 5$
+ 
+### 时间轴
+* [timeline](https://www.melonhtml5.com/#!/timeline)
+* [timeline](http://tympanus.net/codrops/2013/05/02/vertical-timeline/) 这个网站不错
+* [timeline](https://technotarek.com/timeliner/timeliner.html)
 
 ### 展示
 * [Impress.js](https://developer.cdn.mozilla.net/media/uploads/demos/b/a/bartaz/54e3827142e4149a5c01db64c9517c84/impressjs_1333223745_demo_package/index.html#/bored) 各种旋转，和奇特的体验
