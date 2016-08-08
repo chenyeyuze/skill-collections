@@ -3,7 +3,7 @@
 [superagent](https://github.com/visionmedia/superagent)
 
 2. express reload  
-[nodemon](https://github.com/remy/nodemon)
+[nodemon](https://github.com/remy/nodemon)  
 [hotnode](https://github.com/saschagehlich/hotnode)
 
 3. schedule  
