@@ -4,6 +4,7 @@
 
 2. express reload  
 [nodemon](https://github.com/remy/nodemon)
+[hotnode](https://github.com/saschagehlich/hotnode)
 
 3. schedule  
 [later](https://github.com/bunkat/later)  
