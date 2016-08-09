@@ -18,3 +18,6 @@
 
 6. 队列  
 [concurrent-queue](https://github.com/jasonpincin/concurrent-queue)
+
+7. Promise  
+[bluebird](https://github.com/petkaantonov/bluebird)
