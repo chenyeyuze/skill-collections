@@ -15,3 +15,6 @@
 
 5. 循环创建目录  
 [mkdirp](https://github.com/substack/node-mkdirp)
+
+6. 队列  
+[concurrent-queue](https://github.com/jasonpincin/concurrent-queue)
