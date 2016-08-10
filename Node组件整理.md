@@ -1,6 +1,7 @@
 1. http client  
 [request](https://github.com/request/request)  
-[superagent](https://github.com/visionmedia/superagent)
+[superagent](https://github.com/visionmedia/superagent)  
+[axios](https://www.npmjs.com/package/axios)
 
 2. express reload  
 [nodemon](https://github.com/remy/nodemon)  
