@@ -21,3 +21,6 @@
 
 7. Promise  
 [bluebird](https://github.com/petkaantonov/bluebird)
+
+8. 读文件行  
+[line-reader](https://github.com/nickewing/line-reader)
