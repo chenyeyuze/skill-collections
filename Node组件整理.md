@@ -29,3 +29,5 @@
 9. 测试工具  
 [ava](https://www.npmjs.com/package/ava)   
 
+10. 链式读文件  
+[fs-readfile-promise](https://github.com/shinnn/fs-readfile-promise)  
