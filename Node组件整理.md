@@ -18,7 +18,8 @@
 [mkdirp](https://github.com/substack/node-mkdirp)
 
 6. 队列  
-[concurrent-queue](https://github.com/jasonpincin/concurrent-queue)
+[concurrent-queue](https://github.com/jasonpincin/concurrent-queue)  
+[asap](https://github.com/kriskowal/asap)  
 
 7. Promise  
 [bluebird](https://github.com/petkaantonov/bluebird)
