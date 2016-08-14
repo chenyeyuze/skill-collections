@@ -32,3 +32,6 @@
 
 10. 链式读文件  
 [fs-readfile-promise](https://github.com/shinnn/fs-readfile-promise)  
+
+11.扁平化数据
+[array-flatten](https://github.com/blakeembrey/array-flatten)  
