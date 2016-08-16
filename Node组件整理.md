@@ -39,5 +39,8 @@
 12.作为最后一步响应http请求的方法  
 [finalhandler](https://github.com/pillarjs/finalhandler)  
 
-13. cookie解析  
+13.cookie解析  
 [cookie](https://github.com/jshttp/cookie)  
+
+14. pdf生成  
+[pdfmake](https://github.com/bpampuch/pdfmake)  
