@@ -42,5 +42,8 @@
 13.cookie解析  
 [cookie](https://github.com/jshttp/cookie)  
 
-14. pdf生成  
+14.pdf生成  
 [pdfmake](https://github.com/bpampuch/pdfmake)  
+
+15.使用har文件生成瀑布图  
+[PerfCascade](https://github.com/micmro/PerfCascade)  
