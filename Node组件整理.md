@@ -47,3 +47,6 @@
 
 15.使用har文件生成瀑布图  
 [PerfCascade](https://github.com/micmro/PerfCascade)  
+
+16.png图片裁剪  
+[png-crop](https://github.com/chenglou/png-crop)  
