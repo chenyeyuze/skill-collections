@@ -33,20 +33,25 @@
 10. 链式读文件  
 [fs-readfile-promise](https://github.com/shinnn/fs-readfile-promise)  
 
-11.扁平化数据  
+11. 扁平化数据  
 [array-flatten](https://github.com/blakeembrey/array-flatten)  
 
-12.作为最后一步响应http请求的方法  
+12. 作为最后一步响应http请求的方法  
 [finalhandler](https://github.com/pillarjs/finalhandler)  
 
-13.cookie解析  
+13. cookie解析  
 [cookie](https://github.com/jshttp/cookie)  
 
-14.pdf生成  
+14. pdf生成  
 [pdfmake](https://github.com/bpampuch/pdfmake)  
 
-15.使用har文件生成瀑布图  
+15. 使用har文件生成瀑布图  
 [PerfCascade](https://github.com/micmro/PerfCascade)  
 
-16.png图片裁剪  
+16. png图片裁剪  
 [png-crop](https://github.com/chenglou/png-crop)  
+
+17. 日志组件  
+[log4js](https://github.com/nomiddlename/log4js-node)  
+[intel](https://github.com/seanmonstar/intel)  
+
