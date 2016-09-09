@@ -55,3 +55,9 @@
 [log4js](https://github.com/nomiddlename/log4js-node)  
 [intel](https://github.com/seanmonstar/intel)  
 
+18. 转换字符编码
+[iconv-lite](https://www.npmjs.com/package/iconv-lite)
+
+19. cookie操作
+[tough-cookie](https://github.com/SalesforceEng/tough-cookie)
+
