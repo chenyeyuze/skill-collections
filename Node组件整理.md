@@ -61,3 +61,6 @@
 19. cookie操作
 [tough-cookie](https://github.com/SalesforceEng/tough-cookie)
 
+20.IP地址处理  
+[node-qqwry](https://github.com/amaps/node-qqwry)  
+[node-geoip](https://github.com/bluesmoon/node-geoip)  
