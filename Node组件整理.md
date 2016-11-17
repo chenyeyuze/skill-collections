@@ -77,4 +77,13 @@
 23. 获取一个进程的所有子进程
 [ps-tree](https://www.npmjs.com/package/ps-tree)
 
+24. 代理工具
+[phoenixmatrix-proxy](https://github.com/Phoenixmatrix/phoenixmatrix-proxy)
+
+25. 运行、监控Node工具
+[pm2](https://github.com/Unitech/pm2)
+[forever](https://github.com/foreverjs/forever)
+[nodemon](https://github.com/remy/nodemon)
+[hotnode](https://www.npmjs.com/package/hotnode)
+
 
