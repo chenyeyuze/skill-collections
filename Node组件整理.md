@@ -74,3 +74,7 @@
 [yargs](https://www.npmjs.com/package/yargs)  
 [minimist](https://www.npmjs.com/package/minimist)
 
+23. 获取一个进程的所有子进程
+[ps-tree](https://www.npmjs.com/package/ps-tree)
+
+
