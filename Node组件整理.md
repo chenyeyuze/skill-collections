@@ -3,9 +3,9 @@
 [superagent](https://github.com/visionmedia/superagent)  
 [axios](https://www.npmjs.com/package/axios)
 
-2. express reload  
-[nodemon](https://github.com/remy/nodemon)  
-[hotnode](https://github.com/saschagehlich/hotnode)
+2.http代理服务
+[http-proxy](https://github.com/nodejitsu/node-http-proxy)  
+[http-proxy-middelware](https://github.com/chimurai/http-proxy-middleware)
 
 3. schedule  
 [later](https://github.com/bunkat/later)  
@@ -86,4 +86,15 @@
 [nodemon](https://github.com/remy/nodemon)
 [hotnode](https://www.npmjs.com/package/hotnode)
 
+26. 类似Phantomjs的组件
+[jsdom](https://github.com/tmpvar/jsdom)
+
+27. virtual-dom
+[virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+
+28. js解析器
+[acorn](https://github.com/ternjs/acorn)
+
+29. node端dom实现
+[min-document](https://www.npmjs.com/package/min-document)
 
