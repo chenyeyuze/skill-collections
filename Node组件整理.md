@@ -3,7 +3,7 @@
 [superagent](https://github.com/visionmedia/superagent)  
 [axios](https://www.npmjs.com/package/axios)
 
-2.http代理服务
+2. http代理服务
 [http-proxy](https://github.com/nodejitsu/node-http-proxy)  
 [http-proxy-middelware](https://github.com/chimurai/http-proxy-middleware)
 
@@ -72,7 +72,8 @@
 
 22. 命令行参数
 [yargs](https://www.npmjs.com/package/yargs)  
-[minimist](https://www.npmjs.com/package/minimist)
+[minimist](https://www.npmjs.com/package/minimist)  
+[commander](https://www.npmjs.com/package/commander)
 
 23. 获取一个进程的所有子进程
 [ps-tree](https://www.npmjs.com/package/ps-tree)
@@ -91,10 +92,22 @@
 
 27. virtual-dom
 [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+[snabbdom](https://github.com/snabbdom/snabbdom)
 
 28. js解析器
 [acorn](https://github.com/ternjs/acorn)
 
 29. node端dom实现
 [min-document](https://www.npmjs.com/package/min-document)
+
+30. xmind处理器
+[translateXmind](https://github.com/xinyu198736/xmind-to-ascii)
+[xmind](https://www.npmjs.com/package/xmind)  
+
+31. git操作
+[simple-git](https://www.npmjs.com/package/simple-git)  
+[pre-commit](https://www.npmjs.com/package/pre-commit)
+
+32. 文件操作
+[fs-extra](https://www.npmjs.com/package/fs-extra)  
 
