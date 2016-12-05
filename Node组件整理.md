@@ -29,6 +29,7 @@
 
 9. 测试工具  
 [ava](https://www.npmjs.com/package/ava)   
+[sinon](https://www.npmjs.com/package/sinon)
 
 10. 链式读文件  
 [fs-readfile-promise](https://github.com/shinnn/fs-readfile-promise)  
@@ -96,6 +97,7 @@
 
 28. js解析器
 [acorn](https://github.com/ternjs/acorn)
+[babylon](https://www.npmjs.com/package/babylon)
 
 29. node端dom实现
 [min-document](https://www.npmjs.com/package/min-document)
@@ -110,4 +112,39 @@
 
 32. 文件操作
 [fs-extra](https://www.npmjs.com/package/fs-extra)  
+[rd](https://www.npmjs.com/package/rd)
+
+33. 比较
+[diff-list2](https://www.npmjs.com/package/list-diff2)
+
+34. 通配符
+[micromatch](https://github.com/jonschlinkert/micromatch)  
+
+35. 命令行提示
+[inquirer](https://www.npmjs.com/package/inquirer)  
+
+36. 内存文件
+[memory-fs](https://www.npmjs.com/package/memory-fs)
+
+37. serve-index
+[serve-index](https://www.npmjs.com/package/serve-index)
+
+38. 压缩中间件
+[compression](https://www.npmjs.com/package/compression)
+
+39. sockjs
+[sockjs](https://www.npmjs.com/package/sockjs)
+
+40. connect-history-api-fallback
+[connect-history-api-fallback](https://www.npmjs.com/package/connect-history-api-fallback) Provides a fallback for non-existing directories so that the HTML 5 history API can be used.
+
+41. mine
+[mine](https://www.npmjs.com/package/mine) 获取所有的require名字
+
+42. serve-index
+[serve-index](https://www.npmjs.com/package/serve-index)Serves pages that contain directory listings for a given path. 
+
+43. 静态资源代理
+[livepool](https://www.npmjs.com/package/livepool)
+[Dproxy](https://github.com/deemstone/Dproxy)
 
