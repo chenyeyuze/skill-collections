@@ -148,3 +148,22 @@
 [livepool](https://www.npmjs.com/package/livepool)
 [Dproxy](https://github.com/deemstone/Dproxy)
 
+44. JSON循环引用处理
+[circular-json-es6](https://github.com/yyx990803/circular-json-es6)
+
+45. high-resolution timers & returns statistically significant results
+[benchmark](https://www.npmjs.com/package/benchmark)
+
+46. emojis-list
+[emojis-list](https://github.com/Kikobeats/emojis-list)
+
+47. commit/changlog规范工具
+[changelog](https://www.npmjs.com/package/conventional-changelog)
+
+48. tempfile Get a random temp file path
+[tempfile](https://github.com/sindresorhus/tempfile)
+
+49. path.join
+[path.join](https://github.com/mannyvergel/path.join) 跨平台的path.join
+
+
